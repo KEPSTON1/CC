@@ -1,7 +1,0 @@
-Flask
-pandas
-tensorflow
-numpy
-PyJWT
-mysql-connector-python
-python-dotenv
