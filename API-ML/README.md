@@ -1,6 +1,7 @@
 # Step
 - Open this code on your Visual Studio Code and running this code
-- Copy the url server and paste in the postman, Example: 
+- Copy the url server and paste in the postman
+- Follow the method and request bellow and you can access this API
 
 # Prediksi
 ####	URL
