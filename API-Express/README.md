@@ -103,14 +103,16 @@ o	Authorization : Bearer Token
 ####	Request Body
 o	Authorization : Bearer Token
 ####	Response
-nama,
-alamat,
-rating,
-foto,
-jamBuka,
-jamTutup,
-nomorHp,
-whatsapp
+{ <br>
+            "nama": "Denpasar Mental Health Centre (DMHC) and Wellness", <br>
+            "alamat": "Jl. Padang Gajah Jalan Utara RS Balimed No.8, Padangsambian, Kec. Denpasar Bar., Kota Denpasar, Bali 80117, Indonesia",<br>
+            "rating": 4.8, <br> 
+            "fotoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AdDdOWpvFnWXk0s5B9oUSMnF23aJER23j18NYvUudV0enqMEG3-I9eL3jibq3Z1jZ2co68TUy55Mdo8sM0jYnFoJZPTTeBzdl3IzPilWxZ1GQORo5wXY0-VSFd54vyaFVzKxrydevwfowVdyIJXreagW8fpvA9fDZBb0BllKN-Xi-FRCKD3E&key=AIzaSyAufZE3SGF_4vIS2J_lVpgFakj4E3Okh6s", <br>
+            "jamBuka": "12:00", <br>
+            "jamTutup": "20:00",  <br>
+            "nomorHP": "0896-3820-7300", <br>
+            "whatsappUrl": "" <br>
+        }
 
 # Article
 ####	URL
